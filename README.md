@@ -1,4 +1,4 @@
-YardSalz
+YardSalez
 ========
 
 Yard Sale App !!!
